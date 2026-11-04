@@ -19,8 +19,10 @@ Project specialist with 6+ years in new product development at multinational com
   <img align="center" alt="nico-python" width="48px" src="https://img.icons8.com/color/48/000000/python--v1.png">
   <img align="center" alt="nico-python" width="48px" src="https://img.icons8.com/fluency/48/microsoft-copilot.png">
   <!-- <img align="center" alt="nico-sql" width="48px" src="https://img.icons8.com/fluency/48/sql.png"> -->
+
   <img align="center" alt="nico-excel" width="48px" src="https://img.icons8.com/color/48/000000/ms-excel.png">
   <img align="center" alt="nico-office" width="48px" src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png">
+  <img align="center" alt="nico-notion" width="48px" src="https://img.icons8.com/badges/48/notion.png">
   <img align="center" alt="nico-solidworks" width="48px" src="https://img.icons8.com/color/48/000000/solidworks.png">
 </div>
 
