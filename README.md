@@ -1,6 +1,15 @@
 ### Hey! 👋
 
-I am Researcher Engineer working on Tecumseh Products in São Carlos, SP, Brazil. Graduated in Mechanical Engineering by EESC - Universidade de São Paulo. I am interested in BI, Data Science and Machine Learning using PowerBI and Python. I'm learning about Bitcoin and blockchain applications.
+Project specialist with 6+ years in new product development at multinational companies (industrial and FMCG), now focusing on **PMO and project portfolio management**.
+
+- 📊 I work on portfolio prioritization, capacity planning, Stage-Gate governance and business cases (NPV, ROI, Payback)
+- 🛠️ Tools: Power BI, Excel, Smartsheet, MS Project
+- 🐍 Currently learning Python and SQL for data analysis and automation
+- 🔎 Also exploring Bitcoin and blockchain applications
+- 🎓 Mechanical Engineer (EESC – University of São Paulo) · Postgraduate in Project Management (FGV)
+- 📍 Campinas, Brazil
+
+📫 [LinkedIn](https://www.linkedin.com/in/nicolau-ssilva/)
 
 ## Languages and Tools:
 <div style="display: inline_block"><br>
